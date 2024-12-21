@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Bima Adam Nugraha 👋</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Age-21-blue" alt="Age">
+  <img src="https://img.shields.io/badge/Age-22-blue" alt="Age">
   <img src="https://img.shields.io/badge/Occupation-Mechanic-success" alt="Occupation">
   <img src="https://img.shields.io/badge/Hobby-Programming, 3D Design, Videography, Photography-purple" alt="Hobby">
 </p>
