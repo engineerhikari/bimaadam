@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/bima-adam/"><img src="https://img.shields.io/badge/LinkedIn-Bima%20Adam%20Nugraha-blue?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/bimaadam/"><img src="https://img.shields.io/badge/LinkedIn-Bima%20Adam%20Nugraha-blue?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
   <a href="https://github.com/bimaadam"><img src="https://img.shields.io/badge/GitHub-bimaadam-black?style=flat-square&logo=github" alt="GitHub"></a>
   <a href="mailto:bimavyanisty12@gmail.com"><img src="https://img.shields.io/badge/Email-bimavyanisty12@gmail.com-red?style=flat-square&logo=gmail" alt="Email"></a>
 </p>
