@@ -7,9 +7,9 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/bimaadam/"><img src="https://img.shields.io/badge/LinkedIn-Bima%20Adam%20Nugraha-blue?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
+<!--   <a href="https://www.linkedin.com/in/bimaadam/"><img src="https://img.shields.io/badge/LinkedIn-Bima%20Adam%20Nugraha-blue?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
   <a href="https://github.com/bimaadam"><img src="https://img.shields.io/badge/GitHub-bimaadam-black?style=flat-square&logo=github" alt="GitHub"></a>
-  <a href="mailto:rinbim.dev@gmail.com"><img src="https://img.shields.io/badge/Email-rinbim.dev@gmail.com-red?style=flat-square&logo=gmail" alt="Email"></a>
+  <a href="mailto:rinbim.dev@gmail.com"><img src="https://img.shields.io/badge/Email-rinbim.dev@gmail.com-red?style=flat-square&logo=gmail" alt="Email"></a> -->
 </p>
 
 ---
@@ -23,9 +23,9 @@
 ### Connect with Me
 
 <p align="center">
-  <a href="https://www.instagram.com/bima_adam0203sdt/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+<!--   <a href="https://www.instagram.com/bima_adam0203sdt/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
   <a href="https://wa.me/+6289663164143"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
-  <a href="https://www.youtube.com/BeatzBimz"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
+  <a href="https://www.youtube.com/BeatzBimz"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a> -->
 </p>
 
 ---
