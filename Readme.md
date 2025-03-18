@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Bima Adam Nugraha 👋</h1>
+<h3 align="center">Hi there, I'm Bima Adam Nugraha 👋</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Age-22-blue" alt="Age">
@@ -16,7 +16,6 @@
 
 - 🛠 **Skills**: Programming, 3D Design, Videography, Photography
 - 🌟 **Interests**: Coding, Creating 3D models, Filming, and Photography
-- ✨ **Anime Vibes**: Always motivated by anime aesthetics! 
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/54/20/06/5420068e3e5cfd016e6b0628f4a80dc8.gif" width="400" alt="Ayanokoji Coding">
