@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://64.media.tumblr.com/5fdfb7e47a1442cd3bfb4978e00c793d/tumblr_pwbx3r41lx1rrr1nuo1_500.gif" width="300" alt="Anime Coding GIF">
+  <img src="https://i.gifer.com/3M5W.gif" width="300" alt="Steins;Gate Hacking to the Gate">
 </p>
 
 ---
@@ -19,13 +19,12 @@
 - ✨ **Anime Vibes**: Always motivated by anime aesthetics! 
 
 <p align="center">
-  <img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="400" alt="Coding Anime">
+  <img src="https://i.pinimg.com/originals/54/20/06/5420068e3e5cfd016e6b0628f4a80dc8.gif" width="400" alt="Ayanokoji Coding">
 </p>
 
 ### Connect with Me
 
 - 👨‍💻 [Website](https://bimaadamrin.my.id)
-- 🐦 [Twitter](https://twitter.com/yourtwitter)
 - 🌐 [GitHub](https://github.com/bimaadam)
 
 ---
@@ -33,8 +32,9 @@
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bimaadam&show_icons=true&theme=radical" alt="Bima's GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bimaadam&layout=compact&theme=radical" alt="Bima's Top Languages">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bimaadam&theme=tokyonight&hide_border=true" alt="GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api?username=bimaadam&show_icons=true&theme=tokyonight&hide_border=true" alt="Bima's GitHub Stats">
+  <img src="https://github-profile-trophy.vercel.app/?username=bimaadam&theme=tokyonight&margin-w=15&no-frame=true" alt="GitHub Trophies">
 </p>
 
 ---
@@ -42,5 +42,5 @@
 <p align="center">✨ Made with love by Bima Adam Nugraha ✨</p>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/5e/03/ae/5e03ae5fc8a1c4e5bc5c0c3f8dd364f1.gif" width="250" alt="Anime Smile">
+  <img src="https://i.pinimg.com/originals/a9/45/6e/a9456e08cc14c6b083b01356822a30cf.gif" width="250" alt="Levi Ackerman Smirk">
 </p>
