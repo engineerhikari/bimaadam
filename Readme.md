@@ -7,26 +7,26 @@
 </p>
 
 <p align="center">
-<!--   <a href="https://www.linkedin.com/in/bimaadam/"><img src="https://img.shields.io/badge/LinkedIn-Bima%20Adam%20Nugraha-blue?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
-  <a href="https://github.com/bimaadam"><img src="https://img.shields.io/badge/GitHub-bimaadam-black?style=flat-square&logo=github" alt="GitHub"></a>
-  <a href="mailto:rinbim.dev@gmail.com"><img src="https://img.shields.io/badge/Email-rinbim.dev@gmail.com-red?style=flat-square&logo=gmail" alt="Email"></a> -->
+  <img src="https://64.media.tumblr.com/5fdfb7e47a1442cd3bfb4978e00c793d/tumblr_pwbx3r41lx1rrr1nuo1_500.gif" width="300" alt="Anime Coding GIF">
 </p>
 
 ---
 
 ### About Me
 
-- 🔧 **Work Experience**: Mechanic at PT Sejahtera Buana Trada
 - 🛠 **Skills**: Programming, 3D Design, Videography, Photography
 - 🌟 **Interests**: Coding, Creating 3D models, Filming, and Photography
+- ✨ **Anime Vibes**: Always motivated by anime aesthetics! 
+
+<p align="center">
+  <img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="400" alt="Coding Anime">
+</p>
 
 ### Connect with Me
 
-<p align="center">
-<!--   <a href="https://www.instagram.com/bima_adam0203sdt/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-  <a href="https://wa.me/+6289663164143"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
-  <a href="https://www.youtube.com/BeatzBimz"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a> -->
-</p>
+- 👨‍💻 [Website](https://bimaadamrin.my.id)
+- 🐦 [Twitter](https://twitter.com/yourtwitter)
+- 🌐 [GitHub](https://github.com/bimaadam)
 
 ---
 
@@ -40,3 +40,7 @@
 ---
 
 <p align="center">✨ Made with love by Bima Adam Nugraha ✨</p>
+
+<p align="center">
+  <img src="https://i.pinimg.com/originals/5e/03/ae/5e03ae5fc8a1c4e5bc5c0c3f8dd364f1.gif" width="250" alt="Anime Smile">
+</p>
