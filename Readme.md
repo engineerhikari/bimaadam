@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://i.gifer.com/3M5W.gif" width="300" alt="Steins;Gate Hacking to the Gate">
+  <img src="https://i.gifer.com/5IPv.gif" width="300" alt="Steins;Gate Hacking to the Gate">
 </p>
 
 ---
