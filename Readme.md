@@ -41,7 +41,9 @@
 ### 🧠 Most Used Languages
 
 <p align="center">
- <img> https://github-readme-stats.vercel.app/api/top-langs/?username=bimaadam&layout=compact&theme=tokyonight&hide_border=true&exclude_langs=html,php</img>
+ <img
+src="https://github-readme-stats.vercel.app /api/top-langs/?username=bimaadam&layout= compact&theme=tokyonight&hide_border=true& exclude_langs=html,php" alt="Top Languages">
+</p>
 
 
 <p align="center">✨ Made with love by Bima Adam Nugraha ✨</p>
