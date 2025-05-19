@@ -1,4 +1,4 @@
-<h1 align="center">✨ 𝓗𝓮𝓵𝓵𝓸, 𝓓𝓪𝓻𝓵𝓲𝓷𝓰! ✨</h1>
+<h1 align="center">✨ 𝓗𝓮𝓵𝓵𝓸! ✨</h1>
 <h3 align="center">𝓘'𝓶 𝓑𝓲𝓶𝓪 𝓐𝓭𝓪𝓶 𝓝𝓾𝓰𝓻𝓪𝓱𝓪</h3>
 
 <p align="center">
