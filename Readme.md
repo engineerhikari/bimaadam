@@ -48,6 +48,3 @@
 
 <p align="center">✨ Made with love by Bima Adam Nugraha ✨</p>
 
-<p align="center">
-  <img src="https://i.pinimg.com/originals/a9/45/6e/a9456e08cc14c6b083b01356822a30cf.gif" width="250" alt="Levi Ackerman Smirk">
-</p>
