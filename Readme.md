@@ -1,5 +1,5 @@
-<h1 align="center">✨ 𝓗𝓮𝓵𝓵�𝓸, �𝓪𝓻�𝓵𝓲𝓷𝓰! ✨</h1>
-<h3 align="center">𝓘'𝓶 𝓑𝓲𝓶𝓪 𝓐𝓭𝓪𝓶 𝓝𝓾𝓰𝓻�𝓱𝓪</h3>
+<h1 align="center">✨ 𝓗𝓮𝓵𝓵𝓸, 𝓓𝓪𝓻𝓵𝓲𝓷𝓰! ✨</h1>
+<h3 align="center">𝓘'𝓶 𝓑𝓲𝓶𝓪 𝓐𝓭𝓪𝓶 𝓝𝓾𝓰𝓻𝓪𝓱𝓪</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFD700&center=true&vCenter=true&width=435&lines=Mechanic+%F0%9F%9A%80;Creative+Coder+%F0%9F%92%BB;3D+Artist+%F0%9F%8E%A8;Visual+Storyteller+%F0%9F%93%B8" alt="Typing SVG" />
@@ -11,17 +11,16 @@
 </p>
 
 ### 🌟 𝓐𝓫𝓸𝓾𝓽 𝓜𝓮
-+ 𝓐 22-year-old mechanic with a passion for digital creation
-+ 𝓜𝓾𝓵𝓽�-𝓯𝓪𝓬�𝓮𝓽𝓮� 𝓬𝓻𝓮𝓪𝓽𝓸𝓻 𝓪𝓽 𝓱𝓮�𝓻𝓽
-! 𝓛𝓸𝓿𝓮𝓼 𝓽𝓸 𝓫�𝓮�𝓷𝓭 𝓽𝓱𝓮 𝓹𝓱𝔂𝓼𝓲𝓬𝓪𝓵 𝓪𝓷𝓭 𝓭𝓲𝓰𝓲�𝓪𝓵 𝔀𝓸𝓻𝓵𝓭�
-
++ 𝓐 22-year-old mechanic with a passion for digital creation  
++ 𝓜𝓾𝓵𝓽𝓲-𝓯𝓪𝓬𝓮𝓽𝓮𝓭 𝓬𝓻𝓮𝓪𝓽𝓸𝓻 𝓪𝓽 𝓱𝓮𝓪𝓻𝓽  
++ 𝓛𝓸𝓿𝓮𝓼 𝓽𝓸 𝓫𝓵𝓮𝓷𝓭 𝓽𝓱𝓮 𝓹𝓱𝔂𝓼𝓲𝓬𝓪𝓵 𝓪𝓷𝓭 𝓭𝓲𝓰𝓲𝓽𝓪𝓵 𝔀𝓸𝓻𝓵𝓭𝓼  
 
 ---
 
 ### 🛠 𝓣𝓮𝓬𝓱 𝓢𝓽𝓪𝓬𝓴
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=blender,ae,ps,pr,cs,cpp,java,python&theme=dark" alt="Skills">
+  <img src="https://skillicons.dev/icons?i=typescript,javascript,react,nextjs,nodejs&theme=dark" alt="Skills">
 </p>
 
 ---
@@ -41,16 +40,15 @@
 
 ---
 
-### 🎨 𝓒𝓻�𝓪𝓽𝓲𝓿𝓮 𝓟𝓸𝓻𝓽�𝓯𝓸𝓵�𝓲�
-[![3D Art Gallery](https://img.shields.io/badge/3D_Art-FF6B6B?style=for-the-badge)](https://example.com)
-[![Photography Portfolio](https://img.shields.io/badge/Photography-4ECDC4?style=for-the-badge)](https://example.com)
+### 🎨 𝓒𝓻𝓮𝓪𝓽𝓲𝓿𝓮 𝓟𝓸𝓻𝓽𝓯𝓸𝓵𝓲𝓸
+[![3D Art Gallery](https://img.shields.io/badge/3D_Art-FF6B6B?style=for-the-badge)](https://example.com)  
+[![Photography Portfolio](https://img.shields.io/badge/Photography-4ECDC4?style=for-the-badge)](https://example.com)  
 [![Short Films](https://img.shields.io/badge/Films-45B7D1?style=for-the-badge)](https://example.com)
-
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=bimaadam&label=Profile%20Views&color=FF69B4&style=flat" alt="Profile Views">
 </p>
 
 <p align="center">
-  ✨ 𝓒𝓻𝓮𝓪𝓽𝓮𝓭 𝔀𝓲𝓽𝓱 �𝓻�𝓶𝓪𝓽𝓲𝓬 �𝓵𝓪�𝓲�𝓻 ✨
+  ✨ 𝓒𝓻𝓮𝓪𝓽𝓮𝓭 𝔀𝓲𝓽𝓱 𝓓𝓻𝓪𝓶𝓪𝓽𝓲𝓬 𝓕𝓵𝓪𝓲𝓻 ✨
 </p>
