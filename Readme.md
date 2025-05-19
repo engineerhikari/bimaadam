@@ -1,42 +1,56 @@
-<h3 align="center">Hi there, I'm Bima Adam Nugraha 👋</h3>
+<h1 align="center">✨ 𝓗𝓮𝓵𝓵�𝓸, �𝓪𝓻�𝓵𝓲𝓷𝓰! ✨</h1>
+<h3 align="center">𝓘'𝓶 𝓑𝓲𝓶𝓪 𝓐𝓭𝓪𝓶 𝓝𝓾𝓰𝓻�𝓱𝓪</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Age-22-blue" alt="Age">
-  <img src="https://img.shields.io/badge/Occupation-Mechanic-success" alt="Occupation">
-  <img src="https://img.shields.io/badge/Hobby-Programming, 3D Design, Videography, Photography-purple" alt="Hobby">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFD700&center=true&vCenter=true&width=435&lines=Mechanic+%F0%9F%9A%80;Creative+Coder+%F0%9F%92%BB;3D+Artist+%F0%9F%8E%A8;Visual+Storyteller+%F0%9F%93%B8" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://bimaadamrin.my.id"><img src="https://img.shields.io/badge/Website-FF4088?style=for-the-badge&logo=About.me&logoColor=white" alt="Website"></a>
+  <a href="https://github.com/bimaadam"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+</p>
+
+### 🌟 𝓐𝓫𝓸𝓾𝓽 𝓜𝓮
++ 𝓐 22-year-old mechanic with a passion for digital creation
++ 𝓜𝓾𝓵𝓽�-𝓯𝓪𝓬�𝓮𝓽𝓮� 𝓬𝓻𝓮𝓪𝓽𝓸𝓻 𝓪𝓽 𝓱𝓮�𝓻𝓽
+! 𝓛𝓸𝓿𝓮𝓼 𝓽𝓸 𝓫�𝓮�𝓷𝓭 𝓽𝓱𝓮 𝓹𝓱𝔂𝓼𝓲𝓬𝓪𝓵 𝓪𝓷𝓭 𝓭𝓲𝓰𝓲�𝓪𝓵 𝔀𝓸𝓻𝓵𝓭�
+
+
+---
+
+### 🛠 𝓣𝓮𝓬𝓱 𝓢𝓽𝓪𝓬𝓴
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=blender,ae,ps,pr,cs,cpp,java,python&theme=dark" alt="Skills">
 </p>
 
 ---
 
-### About Me
+### 📊 𝓖𝓲𝓽𝓗𝓾𝓫 𝓢𝓽𝓪𝓽𝓼
 
-- 🛠 **Skills**: Programming, 3D Design, Videography, Photography
-- 🌟 **Interests**: Coding, Creating 3D models, Filming, and Photography
-
-### Connect with Me
-
-- 👨‍💻 [Website](https://bimaadamrin.my.id)
-- 🌐 [GitHub](https://github.com/bimaadam)
-
----
-
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bimaadam&theme=tokyonight&hide_border=true" alt="GitHub Streak">
-  <img src="https://github-readme-stats.vercel.app/api?username=bimaadam&show_icons=true&theme=tokyonight&hide_border=true" alt="Bima's GitHub Stats">
-  <img src="https://github-profile-trophy.vercel.app/?username=bimaadam&theme=tokyonight&margin-w=15&no-frame=true" alt="GitHub Trophies">
-</p>
+<div align="center">
+  
+  ![GitHub Streak](https://streak-stats.demolab.com?user=bimaadam&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D)
+  
+  ![Bima's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bimaadam&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bimaadam&layout=compact&theme=radical&hide_border=true&hide=html,php,scss,css)
+  
+  ![Trophies](https://github-profile-trophy.vercel.app/?username=bimaadam&theme=radical&margin-w=15&no-frame=true&rank=SSS,SS,S,AAA,AA,A,B)
+</div>
 
 ---
 
-### 🧠 Most Used Languages
+### 🎨 𝓒𝓻�𝓪𝓽𝓲𝓿𝓮 𝓟𝓸𝓻𝓽�𝓯𝓸𝓵�𝓲�
+[![3D Art Gallery](https://img.shields.io/badge/3D_Art-FF6B6B?style=for-the-badge)](https://example.com)
+[![Photography Portfolio](https://img.shields.io/badge/Photography-4ECDC4?style=for-the-badge)](https://example.com)
+[![Short Films](https://img.shields.io/badge/Films-45B7D1?style=for-the-badge)](https://example.com)
+
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bimaadam&theme=tokyonight&hide=html,php,htm" />
-
+  <img src="https://komarev.com/ghpvc/?username=bimaadam&label=Profile%20Views&color=FF69B4&style=flat" alt="Profile Views">
 </p>
 
-
-<p align="center">✨ Made with love by Bima Adam Nugraha ✨</p>
-
+<p align="center">
+  ✨ 𝓒𝓻𝓮𝓪𝓽𝓮𝓭 𝔀𝓲𝓽𝓱 �𝓻�𝓶𝓪𝓽𝓲𝓬 �𝓵𝓪�𝓲�𝓻 ✨
+</p>
