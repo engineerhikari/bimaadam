@@ -20,7 +20,7 @@
 ### 🛠 𝓣𝓮𝓬𝓱 𝓢𝓽𝓪𝓬𝓴
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=typescript,javascript,react,nextjs,nodejs,nestjs,prisma&theme=dark" alt="Skills">
+  <img src="https://skillicons.dev/icons?i=typescript,javascript,react,nextjs,nodejs,nestjs,prisma,php,laravel&theme=dark" alt="Skills">
 </p>
 
 ---
