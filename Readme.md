@@ -6,10 +6,6 @@
   <img src="https://img.shields.io/badge/Hobby-Programming, 3D Design, Videography, Photography-purple" alt="Hobby">
 </p>
 
-<p align="center">
-  <img src="https://i.gifer.com/5IPv.gif" width="300" alt="Steins;Gate Hacking to the Gate">
-</p>
-
 ---
 
 ### About Me
