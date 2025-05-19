@@ -13,10 +13,6 @@
 - 🛠 **Skills**: Programming, 3D Design, Videography, Photography
 - 🌟 **Interests**: Coding, Creating 3D models, Filming, and Photography
 
-<p align="center">
-  <img src="https://i.pinimg.com/originals/54/20/06/5420068e3e5cfd016e6b0628f4a80dc8.gif" width="400" alt="Ayanokoji Coding">
-</p>
-
 ### Connect with Me
 
 - 👨‍💻 [Website](https://bimaadamrin.my.id)
