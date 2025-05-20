@@ -48,7 +48,3 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=bimaadam&label=Profile%20Views&color=FF69B4&style=flat" alt="Profile Views">
 </p>
-
-<p align="center">
-  ✨ 𝓒𝓻𝓮𝓪𝓽𝓮𝓭 𝔀𝓲𝓽𝓱 𝓓𝓻𝓪𝓶𝓪𝓽𝓲𝓬 𝓕𝓵𝓪𝓲𝓻 ✨
-</p>
