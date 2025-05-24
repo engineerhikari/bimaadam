@@ -41,9 +41,13 @@
 ---
 
 ### 🎨 𝓒𝓻𝓮𝓪𝓽𝓲𝓿𝓮 𝓟𝓸𝓻𝓽𝓯𝓸𝓵𝓲𝓸
+
 <div align="center">
-[![3D Art Gallery](https://img.shields.io/badge/3D_Art-FF6B6B?style=for-the-badge)](https://example.com)  
+
+  [![3D Art Gallery](https://img.shields.io/badge/3D_Art-FF6B6B?style=for-the-badge)](https://example.com)  
+
 [![Photography Portfolio](https://img.shields.io/badge/Photography-4ECDC4?style=for-the-badge)](https://example.com)  
+
 [![Short Films](https://img.shields.io/badge/Films-45B7D1?style=for-the-badge)](https://example.com)
 </div>
 <p align="center">
